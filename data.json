@@ -1,6 +1,14 @@
-[
-  "a",
-  "b",
-  "c",
-  "d"
-]
+{
+  "site-netlify-01": [
+    {
+      "title": "Artikel terkait",
+      "url": "https://domain-hosting-01.com"
+    }
+  ],
+  "site-netlify-02": [
+    {
+      "title": "Panduan terkait",
+      "url": "https://domain-hosting-02.com"
+    }
+  ]
+}
